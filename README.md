@@ -111,11 +111,3 @@ Through this project I learned:
 ## Screenshot
 
 <img width="443" height="706" alt="image" src="https://github.com/user-attachments/assets/093646d8-640a-4ab1-bff1-b5877ca81320" />
-
-
-(Add project screenshot here)
-
-## Author
-
-**Shelly Chaudhary**  
-B.Tech CSE Student | MERN Developer | DSA Enthusiast
