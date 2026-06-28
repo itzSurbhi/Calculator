@@ -1,6 +1,6 @@
 # React Calculator App
 
-A simple and responsive calculator application built using **React.js**. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division while demonstrating React concepts like **components, props, state management, and event handling**.
+A simple and responsive calculator application built using **React**. This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division while demonstrating React concepts like **components, props, state management, and event handling**.
 
 ## Features
 
