@@ -88,19 +88,6 @@ Run the project:
 npm run dev
 ```
 
-## Learning Outcomes
-
-Through this project I learned:
-
-- React component architecture
-- Passing data using props
-- State management using `useState`
-- Handling button click events
-- Conditional logic in React
-- Debugging props and state issues
-- Building reusable UI components
-
-
 ## Screenshot
 
 <img width="443" height="706" alt="image" src="https://github.com/user-attachments/assets/093646d8-640a-4ab1-bff1-b5877ca81320" />
