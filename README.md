@@ -100,13 +100,6 @@ Through this project I learned:
 - Debugging props and state issues
 - Building reusable UI components
 
-## Future Improvements
-
-- Add backspace button
-- Add keyboard input support
-- Add calculation history
-- Improve UI design
-- Add scientific calculator functions
 
 ## Screenshot
 
